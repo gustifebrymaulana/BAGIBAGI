@@ -1,8 +1,0 @@
-{
-  "name": "donation-proxy-vercel",
-  "version": "1.0.0",
-  "description": "Proxy webhook BagiBagi -> Roblox (Vercel + Upstash Redis)",
-  "engines": {
-    "node": ">=18.0.0"
-  }
-}
